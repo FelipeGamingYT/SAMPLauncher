@@ -1,35 +1,35 @@
 # SAMPLauncher
 
 ## Description
-SAMPLauncherNET is a launcher for San Andreas Multiplayer
+SAMPLauncherNET é um lançador para San Andreas Multiplayer
 
-## Why not the native San Andreas Multiplayer launcher?
-SAMPLauncherNET is a more modern approach to San Andreas Multiplayer.
-It is capable to do more things than the native San Andreas Multiplayer launcher.
+## Por que não o lançador nativo San Andreas Multiplayer?
+SAMPLauncherNET é uma abordagem mais moderna para San Andreas Multiplayer.
+Ele é capaz de fazer mais coisas do que o lançador nativo San Andreas Multiplayer.
 
-## How to use it?
-Download and move the binaries into any directory you prefer, which should have read and write permissions.
+## Como usá-lo?
+Baixe e mova os binários para qualquer diretório que você preferir, que deve ter permissões de leitura e gravação.
 
-## Where can I get a current build of SAMPLauncherNET?
-You can check the releases out in https://github.com/BigETI/SAMPLauncherNET/releases
+## Onde posso obter uma compilação atual do SAMPLauncherNET?
+Você pode verificar os lançamentos em https://github.com/BigETI/SAMPLauncherNET/releases
 
-## What features does it provide?
-Check out the launcher [features](https://github.com/BigETI/SAMPLauncherNET/blob/master/FEATURES.md) at https://github.com/BigETI/SAMPLauncherNET/blob/master/FEATURES.md
+## Quais recursos ele fornece?
+Confira o lançador [recursos](https://github.com/BigETI/SAMPLauncherNET/blob/master/FEATURES.md) em https://github.com/BigETI/SAMPLauncherNET/blob/master/FEATURES.md
 
-## How to contribute to this project?
-Fork this project, commit your changes and create a pull request.
+## Como contribuir para este projeto?
+Forque este projeto, comprometa suas alterações e crie uma solicitação pull.
 
-### Translation
-Translation files are located at https://github.com/BigETI/SAMPLauncherNET/tree/master/SAMPLauncherNET/languages ,
-pick up `en-GB.json`, create a copy
-and rename it to the language's `language tag` you want to translate.
+### Tradução
+Os arquivos de tradução estão localizados em https://github.com/BigETI/SAMPLauncherNET/tree/master/SAMPLauncherNET/languages ,
+pegar `en-GB.json`, criar uma cópia
+e renomeie-o para o idioma `language tag` você quer traduzir.
 https://msdn.microsoft.com/en-us/library/cc233982.aspx
-For example the `language tag` of spanish in Spain is `es-ES`.
+Por exemplo, o `language tag` de espanhol em Espanha é `es-ES`.
 
-### Code
-You can change anything within the source code to contribute.
+### Código
+Você pode alterar qualquer coisa dentro do código-fonte para contribuir.
 
-## Projects associated with this project
+## Projetos associados a este projeto
 - https://github.com/BigETI/INIEngine
 - https://github.com/BigETI/UpdaterNET
 - https://github.com/BigETI/WinFormsTranslator
@@ -40,7 +40,7 @@ You can change anything within the source code to contribute.
 - https://github.com/Southclaws/samp-servers-api
 - https://github.com/Southclaws/sampctl
 
-## Similar projects
+## Projetos semelhantes
 - https://github.com/Bios-Marcel/ServerBrowser
 - https://github.com/earlwlkr/SAMP-Launcher-vi
 - https://github.com/Papawy/SAMP_Ex
@@ -49,7 +49,7 @@ You can change anything within the source code to contribute.
 - https://github.com/jasarsoft/launcher-samp
 - https://github.com/Whitetigerswt/samp_launcher
 
-## Projects you want to check out
+## Projetos que você deseja conferir
 - https://github.com/BigETI/sampcmd
 - https://github.com/BigETI/SAMPcmdNET
 - https://github.com/Southclaws/samp-servers-frontend
