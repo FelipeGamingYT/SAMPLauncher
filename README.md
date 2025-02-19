@@ -14,7 +14,7 @@ Baixe e mova os binários para qualquer diretório que você preferir, que deve 
 Você pode verificar os lançamentos em https://github.com/BigETI/SAMPLauncherNET/releases
 
 ## Quais recursos ele fornece?
-Confira o lançador [recursos](https://github.com/BigETI/SAMPLauncherNET/blob/master/FEATURES.md) em https://github.com/BigETI/SAMPLauncherNET/blob/master/FEATURES.md
+Confira o lançador [recursos](https://github.com/FelipeGamingYT/SAMPLauncher/blob/master/FEATURES.md) em https://github.com/BigETI/SAMPLauncherNET/blob/master/FEATURES.md
 
 ## Como contribuir para este projeto?
 Forque este projeto, comprometa suas alterações e crie uma solicitação pull.
